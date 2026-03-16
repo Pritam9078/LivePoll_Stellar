@@ -64,7 +64,7 @@ The application will be available at `http://localhost:5173`.
 
 ## 🔗 Links and References
 
-- **Contract Address (Testnet)**: `[REPLACE_WITH_DEPLOYED_CONTRACT_ID_ONCE_DEPLOYED]`
+- **Contract Address (Testnet)**: [`CBJCFW6AE36XHD5DZCMYAT2UXXJT2UMZPEO5ACH3HMZJUT4S5AOOCLLS`](https://stellar.expert/explorer/testnet/contract/CBJCFW6AE36XHD5DZCMYAT2UXXJT2UMZPEO5ACH3HMZJUT4S5AOOCLLS)
 - **Live Demo Link**: `[REPLACE_WITH_VERCEL_OR_NETLIFY_LINK]`
 - **Demo Video Link (1 min)**: `[REPLACE_WITH_YOUTUBE_OR_LOOM_LINK]`
 
