@@ -71,7 +71,7 @@ The application will be available at `http://localhost:5173`.
 ---
 
 ## 📸 Screenshots
-<img width="1280" height="624" alt="Screenshot 2026-02-28 at 11 49 29 PM" src="https://github.com/user-attachments/assets/24f7ea05-749e-48b4-9a3f-66142c8e6ff5" />
+
 
 
 ### 1. Wallet Selection & Connect
